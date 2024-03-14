@@ -1,5 +1,7 @@
 # To run app:
 
+    run npm install from the root directory.
+
     If you have the Live Server (Five Server) extension installed.
         - right click on index.html and click on "Open with Five Server"
 

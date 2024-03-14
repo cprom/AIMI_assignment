@@ -9,6 +9,9 @@ const picArray = [
 
 ]
 
+// Dynamically build the dom tree instead of building static HTML
+// This will make scaling easier
+
 function addPictureContainers() {
     const container = document.getElementById("pic1-container"); // Replace "target-container" with the actual ID of your target element
   
